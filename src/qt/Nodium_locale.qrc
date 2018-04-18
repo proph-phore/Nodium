@@ -1,0 +1,28 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/Nodium_bg.qm</file>
+        <file alias="ca">locale/Nodium_ca.qm</file>
+        <file alias="cs">locale/Nodium_cs.qm</file>
+        <file alias="da">locale/Nodium_da.qm</file>
+        <file alias="de">locale/Nodium_de.qm</file>
+        <file alias="en">locale/Nodium_en.qm</file>
+        <file alias="en_US">locale/Nodium_en_US.qm</file>
+        <file alias="es">locale/Nodium_es.qm</file>
+        <file alias="fi">locale/Nodium_fi.qm</file>
+        <file alias="fr_FR">locale/Nodium_fr_FR.qm</file>
+        <file alias="it">locale/Nodium_it.qm</file>
+        <file alias="ja">locale/Nodium_ja.qm</file>
+        <file alias="ko_KR">locale/Nodium_ko_KR.qm</file>
+        <file alias="nl">locale/Nodium_nl.qm</file>
+        <file alias="pl">locale/Nodium_pl.qm</file>
+        <file alias="pt">locale/Nodium_pt.qm</file>
+        <file alias="pt_BR">locale/Nodium_pt_BR.qm</file>
+        <file alias="ro_RO">locale/Nodium_ro_RO.qm</file>
+        <file alias="ru">locale/Nodium_ru.qm</file>
+        <file alias="sk">locale/Nodium_sk.qm</file>
+        <file alias="sv">locale/Nodium_sv.qm</file>
+        <file alias="uk">locale/Nodium_uk.qm</file>
+        <file alias="zh_CN">locale/Nodium_zh_CN.qm</file>
+        <file alias="zh_TW">locale/Nodium_zh_TW.qm</file>
+    </qresource>
+</RCC>
