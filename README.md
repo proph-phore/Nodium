@@ -29,15 +29,15 @@ More information at [nodium.org](http://www.nodium.org)
 ### PoS Rewards Breakdown
 
 <table>
-<th>Phase</th><th>Block Height</th><th>Reward</th><th>Masternodes & Stakers</th>
-<tr><td>Phase 1</td><td>201-50000</td><td>250 XN</td><td>90% (225 XN)</td></tr>
-<tr><td>Phase 2</td><td>50001-75000</td><td>200 XN</td><td>90% (180 XN)</td></tr>
-<tr><td>Phase 3</td><td>75001-100000</td><td>150 XN</td><td>90% (135 XN)</td></tr>
-<tr><td>Phase 4</td><td>100001-150000</td><td>100 XN</td><td>90% (90 XN)</td></tr>
-<tr><td>Phase 5</td><td>150001-200000</td><td>75 XN</td><td>90% (67.5 XN)</td></tr>
-<tr><td>Phase 6</td><td>200001-250000</td><td>50 XN</td><td>90% (45 XN)</td></tr>
-<tr><td>Phase 7</td><td>250001-300000</td><td>30 XN</td><td>90% (27 XN)</td></tr>
-<tr><td>Phase 8</td><td>300001-400000</td><td>15 XN</td><td>90% (13.5 XN)</td></tr>
-<tr><td>Phase 9</td><td>400001-500000</td><td>10 XN</td><td>90% (9 XN)</td></tr>
-<tr><td>Phase X</td><td>500001-Infinite</td><td>5 XN</td><td>90% (4.5 XN)</td></tr>
+<th>Phase</th><th>Block Height</th><th>Reward</th><th>Masternode</th><th>Staking</th>
+<tr><td>Phase 1</td><td>201-50000</td><td>250 XN</td><td>90% (225 XN)</td><td>10%</td></tr>
+<tr><td>Phase 2</td><td>50001-75000</td><td>200 XN</td><td>90% (180 XN)</td><td>10%</td></tr>
+<tr><td>Phase 3</td><td>75001-100000</td><td>150 XN</td><td>90% (135 XN)</td><td>10%</td></tr>
+<tr><td>Phase 4</td><td>100001-150000</td><td>100 XN</td><td>90% (90 XN)</td><td>10%</td></tr>
+<tr><td>Phase 5</td><td>150001-200000</td><td>75 XN</td><td>90% (67.5 XN)</td><td>10%</td></tr>
+<tr><td>Phase 6</td><td>200001-250000</td><td>50 XN</td><td>90% (45 XN)</td><td>10%</td></tr>
+<tr><td>Phase 7</td><td>250001-300000</td><td>30 XN</td><td>90% (27 XN)</td><td>10%</td></tr>
+<tr><td>Phase 8</td><td>300001-400000</td><td>15 XN</td><td>90% (13.5 XN)</td><td>10%</td></tr>
+<tr><td>Phase 9</td><td>400001-500000</td><td>10 XN</td><td>90% (9 XN)</td><td>10%</td></tr>
+<tr><td>Phase X</td><td>500001-Infinite</td><td>5 XN</td><td>90% (4.5 XN)</td><td>10%</td></tr>
 </table>
